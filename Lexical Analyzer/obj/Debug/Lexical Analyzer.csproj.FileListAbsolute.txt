@@ -1,0 +1,23 @@
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Form1.resources
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Properties.Resources.resources
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.GenerateResource.Cache
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+C:\Users\Erfan_PC\Desktop\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+D:\Erfan\New folder\darsi3\کامپایلر\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+D:\Erfan\New folder\darsi3\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+D:\Erfan\New folder\darsi3\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe.config
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.exe
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\bin\Debug\Lexical Analyzer.pdb
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.AssemblyReference.cache
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.SuggestedBindingRedirects.cache
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Form1.resources
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical_Analyzer.Properties.Resources.resources
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.GenerateResource.cache
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.csproj.CoreCompileInputs.cache
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.exe
+E:\uni\term5\کامپایلر\Lexical Analyzer\Lexical Analyzer\obj\Debug\Lexical Analyzer.pdb
